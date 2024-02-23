@@ -1,2 +1,2 @@
-# JS_Chai-Aur-Code
+# JavaScript
 Tutorial for javascript
